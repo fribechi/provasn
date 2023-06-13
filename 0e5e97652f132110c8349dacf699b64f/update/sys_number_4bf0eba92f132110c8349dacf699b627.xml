@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1048934_movetick_moves">x_1048934_movetick_moves</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>MOV</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-08 09:43:18</sys_created_on>
+        <sys_id>4bf0eba92f132110c8349dacf699b627</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MOV</sys_name>
+        <sys_package display_value="movetickets" source="x_1048934_movetick">0e5e97652f132110c8349dacf699b64f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="movetickets">0e5e97652f132110c8349dacf699b64f</sys_scope>
+        <sys_update_name>sys_number_4bf0eba92f132110c8349dacf699b627</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-08 09:43:18</sys_updated_on>
+    </sys_number>
+</record_update>

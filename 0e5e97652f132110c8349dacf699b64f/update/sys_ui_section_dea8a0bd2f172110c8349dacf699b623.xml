@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Checks" section_id="dea8a0bd2f172110c8349dacf699b623" sys_domain="global" table="x_1048934_movetick_moves" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_test</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-08 14:56:29</sys_created_on>
+            <sys_id>aaa8a0bd2f172110c8349dacf699b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Checks" display_value="Checks" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">dea8a0bd2f172110c8349dacf699b623</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-08 14:56:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>second_test</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-08 14:56:29</sys_created_on>
+            <sys_id>2ea8a0bd2f172110c8349dacf699b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Checks" display_value="Checks" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">dea8a0bd2f172110c8349dacf699b623</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-08 14:56:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-08 14:56:29</sys_created_on>
+            <sys_id>aea8a0bd2f172110c8349dacf699b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Checks" display_value="Checks" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">dea8a0bd2f172110c8349dacf699b623</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-08 14:56:29</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>check_first_test</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-08 14:56:29</sys_created_on>
+            <sys_id>22a8a0bd2f172110c8349dacf699b66d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Checks" display_value="Checks" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">dea8a0bd2f172110c8349dacf699b623</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-08 14:56:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>check_2nd_test</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-08 14:56:29</sys_created_on>
+            <sys_id>a2a8a0bd2f172110c8349dacf699b66d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Checks" display_value="Checks" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">dea8a0bd2f172110c8349dacf699b623</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-08 14:56:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Checks</caption>
+            <header>false</header>
+            <name>x_1048934_movetick_moves</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-08 14:56:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dea8a0bd2f172110c8349dacf699b623</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1048934_movetick_moves</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="movetickets" source="x_1048934_movetick">0e5e97652f132110c8349dacf699b64f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="movetickets">0e5e97652f132110c8349dacf699b64f</sys_scope>
+            <sys_update_name>sys_ui_section_dea8a0bd2f172110c8349dacf699b623</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-08 14:56:28</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
