@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-08 14:56:28</sys_created_on>
-            <sys_id>aaa8a0bd2f172110c8349dacf699b640</sys_id>
+            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
+            <sys_id>0861dadf2f532110c8349dacf699b668</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-08 14:56:28</sys_updated_on>
+            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,97 +18,97 @@
             <element>name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-08 14:56:28</sys_created_on>
-            <sys_id>2ea8a0bd2f172110c8349dacf699b640</sys_id>
+            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
+            <sys_id>8861dadf2f532110c8349dacf699b668</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-08 14:56:28</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>oldmgr</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-08 14:56:28</sys_created_on>
-            <sys_id>aea8a0bd2f172110c8349dacf699b640</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-08 14:56:28</sys_updated_on>
+            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>status</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-08 14:56:28</sys_created_on>
-            <sys_id>22a8a0bd2f172110c8349dacf699b641</sys_id>
+            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
+            <sys_id>0c61dadf2f532110c8349dacf699b668</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-08 14:56:28</sys_updated_on>
+            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysold_mgr</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
+            <sys_id>8c61dadf2f532110c8349dacf699b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>move_type</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
+            <sys_id>0061dadf2f532110c8349dacf699b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-08 14:56:28</sys_created_on>
-            <sys_id>a2a8a0bd2f172110c8349dacf699b641</sys_id>
+            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
+            <sys_id>8061dadf2f532110c8349dacf699b669</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-08 14:56:28</sys_updated_on>
+            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>date</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-08 14:56:28</sys_created_on>
-            <sys_id>26a8a0bd2f172110c8349dacf699b641</sys_id>
+            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
+            <sys_id>8061dadf2f532110c8349dacf699b682</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-08 14:56:28</sys_updated_on>
+            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cnum</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-08 14:56:28</sys_created_on>
-            <sys_id>a6a8a0bd2f172110c8349dacf699b641</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-08 14:56:28</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>newmgr</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-08 14:56:28</sys_created_on>
-            <sys_id>2aa8a0bd2f172110c8349dacf699b641</sys_id>
+            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
+            <sys_id>0461dadf2f532110c8349dacf699b682</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-08 14:56:28</sys_updated_on>
+            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,27 @@
             <element>duedate</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-08 14:56:28</sys_created_on>
-            <sys_id>aaa8a0bd2f172110c8349dacf699b641</sys_id>
+            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
+            <sys_id>8461dadf2f532110c8349dacf699b682</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-08 14:56:28</sys_updated_on>
+            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysnew_mgr</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
+            <sys_id>0861dadf2f532110c8349dacf699b682</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

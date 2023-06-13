@@ -6,6 +6,13 @@
         <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Duedate" max_length="40" name="duedate" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="First test" max_length="100" name="first_test" type="string"/>
+        <element choice="1" label="Move_type" max_length="40" name="move_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="INTRA" value="intra"/>
+                <element inactive_on_update="false" label="LEAVE" value="leave"/>
+                <element inactive_on_update="false" label="OUT" value="out"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
         <element attributes="encode_utf8=false" label="Newmgr" max_length="32" name="newmgr" reference="imp_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
@@ -18,7 +25,15 @@
                 <element inactive_on_update="false" label="working" value="working"/>
             </choice>
         </element>
+        <element label="Sysnew mgr" max_length="32" name="sysnew_mgr" reference="sys_user" type="reference"/>
+        <element label="Sysold mgr" max_length="32" name="sysold_mgr" reference="sys_user" type="reference"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="INTRA" value="intra"/>
+                <element inactive_on_update="false" label="OUT" value="out"/>
+            </choice>
+        </element>
         <index name="index">
             <element name="newmgr"/>
         </index>
@@ -27,6 +42,12 @@
         </index>
         <index name="index3">
             <element name="sys_class_name"/>
+        </index>
+        <index name="index4">
+            <element name="sysnew_mgr"/>
+        </index>
+        <index name="index5">
+            <element name="sysold_mgr"/>
         </index>
     </element>
 </database>
