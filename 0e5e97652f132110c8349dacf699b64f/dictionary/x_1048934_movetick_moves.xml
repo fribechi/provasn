@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="52f0aba92f132110c8349dacf699b655" label="moves" max_length="40" name="x_1048934_movetick_moves" type="collection">
+        <element label="Check 2nd test" max_length="40" name="check_2nd_test" type="boolean"/>
+        <element label="Check first test" max_length="40" name="check_first_test" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Cnum" max_length="40" name="cnum" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Duedate" max_length="40" name="duedate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="First test" max_length="100" name="first_test" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="encode_utf8=false" label="Newmgr" max_length="32" name="newmgr" reference="imp_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="encode_utf8=false" label="Oldmgr" max_length="32" name="oldmgr" reference="imp_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Second test" max_length="100" name="second_test" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="open" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="closed" value="closed"/>
+                <element inactive_on_update="false" label="open" value="open"/>
+                <element inactive_on_update="false" label="working" value="working"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="newmgr"/>
+        </index>
+        <index name="index2">
+            <element name="oldmgr"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
