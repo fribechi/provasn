@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="52f0aba92f132110c8349dacf699b655" label="moves" max_length="40" name="x_1048934_movetick_moves" type="collection">
+        <element label="Assignee" max_length="32" name="assignee" reference="sys_user" reference_qual="roles=x_104894_movetick.moves_focal^ORroles=x_104894_movetick.moves_mgr^EQ" reference_qual_condition="roles=x_104894_movetick.moves_focal^ORroles=x_104894_movetick.moves_mgr^EQ" type="reference"/>
         <element label="Check 2nd test" max_length="40" name="check_2nd_test" type="boolean"/>
         <element label="Check first test" max_length="40" name="check_first_test" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Cnum" max_length="40" name="cnum" type="string"/>
@@ -35,18 +36,21 @@
             </choice>
         </element>
         <index name="index">
-            <element name="newmgr"/>
+            <element name="assignee"/>
         </index>
         <index name="index2">
-            <element name="oldmgr"/>
+            <element name="newmgr"/>
         </index>
         <index name="index3">
-            <element name="sys_class_name"/>
+            <element name="oldmgr"/>
         </index>
         <index name="index4">
-            <element name="sysnew_mgr"/>
+            <element name="sys_class_name"/>
         </index>
         <index name="index5">
+            <element name="sysnew_mgr"/>
+        </index>
+        <index name="index6">
             <element name="sysold_mgr"/>
         </index>
     </element>
