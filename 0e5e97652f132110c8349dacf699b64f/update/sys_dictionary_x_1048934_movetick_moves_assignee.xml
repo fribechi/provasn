@@ -44,9 +44,9 @@
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
-        <reference_qual>roles=x_104894_movetick.moves_focal^ORroles=x_104894_movetick.moves_mgr^EQ</reference_qual>
-        <reference_qual_condition table="sys_user">roles=x_104894_movetick.moves_focal^ORroles=x_104894_movetick.moves_mgr^EQ<item endquery="false" field="roles" goto="false" newquery="false" operator="=" or="false" value="x_104894_movetick.moves_focal"/>
-            <item endquery="false" field="roles" goto="false" newquery="false" operator="=" or="true" value="x_104894_movetick.moves_mgr"/>
+        <reference_qual>roles=x_1048934_movetick.moves_focal^ORroles=x_1048934_movetick.moves_mgr^EQ</reference_qual>
+        <reference_qual_condition table="sys_user">roles=x_1048934_movetick.moves_focal^ORroles=x_1048934_movetick.moves_mgr^EQ<item endquery="false" field="roles" goto="false" newquery="false" operator="=" or="false" value="x_1048934_movetick.moves_focal"/>
+            <item endquery="false" field="roles" goto="false" newquery="false" operator="=" or="true" value="x_1048934_movetick.moves_mgr"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </reference_qual_condition>
         <reference_type/>
@@ -61,7 +61,7 @@
         <sys_scope display_value="movetickets">0e5e97652f132110c8349dacf699b64f</sys_scope>
         <sys_update_name>sys_dictionary_x_1048934_movetick_moves_assignee</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-06-13 15:59:18</sys_updated_on>
+        <sys_updated_on>2023-06-14 15:53:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
