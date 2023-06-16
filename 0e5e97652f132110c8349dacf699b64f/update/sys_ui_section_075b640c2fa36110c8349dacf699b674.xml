@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="Move" section_id="96b6203d2f172110c8349dacf699b637" sys_domain="global" table="x_1048934_movetick_moves" version="3" view="">
+    <sys_ui_section caption="Move" section_id="075b640c2fa36110c8349dacf699b674" sys_domain="global" table="x_1048934_movetick_moves" version="3" view="AdditionalView">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
-            <sys_id>0861dadf2f532110c8349dacf699b668</sys_id>
+            <sys_created_on>2023-06-15 14:54:36</sys_created_on>
+            <sys_id>935b640c2fa36110c8349dacf699b692</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="4b5b640c2fa36110c8349dacf699b618">075b640c2fa36110c8349dacf699b674</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_updated_on>2023-06-15 14:54:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
-            <sys_id>8861dadf2f532110c8349dacf699b668</sys_id>
+            <sys_created_on>2023-06-15 14:54:36</sys_created_on>
+            <sys_id>5b5b640c2fa36110c8349dacf699b692</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="4b5b640c2fa36110c8349dacf699b618">075b640c2fa36110c8349dacf699b674</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_updated_on>2023-06-15 14:54:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>status</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
-            <sys_id>0c61dadf2f532110c8349dacf699b668</sys_id>
+            <sys_created_on>2023-06-15 14:54:36</sys_created_on>
+            <sys_id>db5b640c2fa36110c8349dacf699b692</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="4b5b640c2fa36110c8349dacf699b618">075b640c2fa36110c8349dacf699b674</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_updated_on>2023-06-15 14:54:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>sysold_mgr</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
-            <sys_id>8c61dadf2f532110c8349dacf699b668</sys_id>
+            <sys_created_on>2023-06-15 14:54:36</sys_created_on>
+            <sys_id>5f5b640c2fa36110c8349dacf699b692</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="4b5b640c2fa36110c8349dacf699b618">075b640c2fa36110c8349dacf699b674</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_updated_on>2023-06-15 14:54:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>move_type</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
-            <sys_id>0061dadf2f532110c8349dacf699b669</sys_id>
+            <sys_created_on>2023-06-15 14:54:36</sys_created_on>
+            <sys_id>df5b640c2fa36110c8349dacf699b692</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="4b5b640c2fa36110c8349dacf699b618">075b640c2fa36110c8349dacf699b674</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_updated_on>2023-06-15 14:54:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
-            <sys_id>8061dadf2f532110c8349dacf699b669</sys_id>
+            <sys_created_on>2023-06-15 14:54:36</sys_created_on>
+            <sys_id>535b640c2fa36110c8349dacf699b693</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="4b5b640c2fa36110c8349dacf699b618">075b640c2fa36110c8349dacf699b674</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_updated_on>2023-06-15 14:54:36</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>date</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
-            <sys_id>8061dadf2f532110c8349dacf699b682</sys_id>
+            <sys_created_on>2023-06-15 14:54:36</sys_created_on>
+            <sys_id>d35b640c2fa36110c8349dacf699b693</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="4b5b640c2fa36110c8349dacf699b618">075b640c2fa36110c8349dacf699b674</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_updated_on>2023-06-15 14:54:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>cnum</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
-            <sys_id>0461dadf2f532110c8349dacf699b682</sys_id>
+            <sys_created_on>2023-06-15 14:54:36</sys_created_on>
+            <sys_id>575b640c2fa36110c8349dacf699b693</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="4b5b640c2fa36110c8349dacf699b618">075b640c2fa36110c8349dacf699b674</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_updated_on>2023-06-15 14:54:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>duedate</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
-            <sys_id>8461dadf2f532110c8349dacf699b682</sys_id>
+            <sys_created_on>2023-06-15 14:54:36</sys_created_on>
+            <sys_id>d75b640c2fa36110c8349dacf699b693</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="4b5b640c2fa36110c8349dacf699b618">075b640c2fa36110c8349dacf699b674</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_updated_on>2023-06-15 14:54:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>sysnew_mgr</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-13 14:24:50</sys_created_on>
-            <sys_id>0861dadf2f532110c8349dacf699b682</sys_id>
+            <sys_created_on>2023-06-15 14:54:36</sys_created_on>
+            <sys_id>5b5b640c2fa36110c8349dacf699b693</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="4b5b640c2fa36110c8349dacf699b618">075b640c2fa36110c8349dacf699b674</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-13 14:24:50</sys_updated_on>
+            <sys_updated_on>2023-06-15 14:54:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>assignee</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-13 15:59:18</sys_created_on>
-            <sys_id>73f62e932fd32110c8349dacf699b676</sys_id>
+            <sys_created_on>2023-06-15 14:54:36</sys_created_on>
+            <sys_id>db5b640c2fa36110c8349dacf699b693</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="Default view">96b6203d2f172110c8349dacf699b637</sys_ui_section>
+            <sys_ui_section caption="Move" display_value="Move" name="x_1048934_movetick_moves" sys_domain="global" view="4b5b640c2fa36110c8349dacf699b618">075b640c2fa36110c8349dacf699b674</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-13 15:59:18</sys_updated_on>
+            <sys_updated_on>2023-06-15 14:54:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -161,22 +161,22 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-08 14:48:00</sys_created_on>
+            <sys_created_on>2023-06-15 14:54:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>96b6203d2f172110c8349dacf699b637</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>075b640c2fa36110c8349dacf699b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1048934_movetick_moves</sys_name>
             <sys_overrides/>
             <sys_package display_value="movetickets" source="x_1048934_movetick">0e5e97652f132110c8349dacf699b64f</sys_package>
             <sys_policy/>
             <sys_scope display_value="movetickets">0e5e97652f132110c8349dacf699b64f</sys_scope>
-            <sys_update_name>sys_ui_section_96b6203d2f172110c8349dacf699b637</sys_update_name>
+            <sys_update_name>sys_ui_section_075b640c2fa36110c8349dacf699b674</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-08 14:56:27</sys_updated_on>
+            <sys_updated_on>2023-06-15 14:54:35</sys_updated_on>
             <sys_user/>
-            <title>true</title>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <title>false</title>
+            <view display_value="AdditionalView" name="AdditionalView">4b5b640c2fa36110c8349dacf699b618</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

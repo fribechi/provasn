@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="52f0aba92f132110c8349dacf699b655" label="moves" max_length="40" name="x_1048934_movetick_moves" type="collection">
+        <element label="Assignee" max_length="32" name="assignee" reference="sys_user" reference_qual="roles=x_1048934_movetick.moves_focal^ORroles=x_1048934_movetick.moves_mgr^EQ" reference_qual_condition="roles=x_1048934_movetick.moves_focal^ORroles=x_1048934_movetick.moves_mgr^EQ" type="reference"/>
         <element label="Check 2nd test" max_length="40" name="check_2nd_test" type="boolean"/>
         <element label="Check first test" max_length="40" name="check_first_test" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Cnum" max_length="40" name="cnum" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Duedate" max_length="40" name="duedate" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="First test" max_length="100" name="first_test" type="string"/>
+        <element choice="1" label="Move_type" max_length="40" name="move_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="INTRA" value="intra"/>
+                <element inactive_on_update="false" label="LEAVE" value="leave"/>
+                <element inactive_on_update="false" label="OUT" value="out"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
         <element attributes="encode_utf8=false" label="Newmgr" max_length="32" name="newmgr" reference="imp_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
@@ -18,15 +26,32 @@
                 <element inactive_on_update="false" label="working" value="working"/>
             </choice>
         </element>
+        <element label="Sysnew mgr" max_length="32" name="sysnew_mgr" reference="sys_user" type="reference"/>
+        <element label="Sysold mgr" max_length="32" name="sysold_mgr" reference="sys_user" type="reference"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="INTRA" value="intra"/>
+                <element inactive_on_update="false" label="OUT" value="out"/>
+            </choice>
+        </element>
         <index name="index">
-            <element name="newmgr"/>
+            <element name="assignee"/>
         </index>
         <index name="index2">
-            <element name="oldmgr"/>
+            <element name="newmgr"/>
         </index>
         <index name="index3">
+            <element name="oldmgr"/>
+        </index>
+        <index name="index4">
             <element name="sys_class_name"/>
+        </index>
+        <index name="index5">
+            <element name="sysnew_mgr"/>
+        </index>
+        <index name="index6">
+            <element name="sysold_mgr"/>
         </index>
     </element>
 </database>
